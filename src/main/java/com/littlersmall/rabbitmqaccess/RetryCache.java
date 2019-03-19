@@ -12,7 +12,7 @@ import com.littlersmall.rabbitmqaccess.common.MessageWithTime;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * Created by littlersmall on 16/9/5.
+ * Created by sunHongWei
  */
 @Slf4j
 public class RetryCache {

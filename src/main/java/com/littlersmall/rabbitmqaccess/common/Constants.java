@@ -1,7 +1,7 @@
 package com.littlersmall.rabbitmqaccess.common;
 
 /**
- * Created by littlersmall on 16/5/19.
+ * Created by sunHongWei
  */
 public class Constants {
     //线程数

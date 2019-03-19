@@ -11,7 +11,7 @@ import java.util.concurrent.Executors;
 import org.omg.SendingContext.RunTime;
 
 /**
- * Created by littlersmall on 16/5/23.
+ * Created by sunHongWei
  */
 @Slf4j
 public class ThreadPoolConsumer<T> {

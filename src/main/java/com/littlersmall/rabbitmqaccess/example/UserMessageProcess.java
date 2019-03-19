@@ -5,7 +5,7 @@ import com.littlersmall.rabbitmqaccess.common.DetailRes;
 import org.springframework.stereotype.Service;
 
 /**
- * Created by littlersmall on 16/6/28.
+ * Created by sunHongWei
  */
 public class UserMessageProcess implements MessageProcess<UserMessage> {
     @Override

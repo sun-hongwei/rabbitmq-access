@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * Created by littlersmall on 16/5/16.
+ * Created by sunHongWei
  */
 @Configuration
 public class RabbitMQConf {

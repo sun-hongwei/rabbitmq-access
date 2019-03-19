@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 /**
- * Created by littlersmall on 16/6/28.
+ * Created by sunHongWei
  */
 @Service
 public class ConsumerExample {

@@ -25,7 +25,7 @@ import com.rabbitmq.client.ShutdownSignalException;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * Created by littlersmall on 16/5/11.
+ * Created by sunHongWei
  */
 @Slf4j
 public class MQAccessBuilder {

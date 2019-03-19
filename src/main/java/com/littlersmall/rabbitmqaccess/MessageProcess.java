@@ -4,7 +4,7 @@ package com.littlersmall.rabbitmqaccess;
 import com.littlersmall.rabbitmqaccess.common.DetailRes;
 
 /**
- * Created by littlersmall on 16/5/11.
+ * Created by sunHongWei
  */
 public interface MessageProcess<T> {
     DetailRes process(T message);
